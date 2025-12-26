@@ -1,1 +1,1 @@
-# Automated-Porosity-Estimation-for-sandstone-reservoirs
+# Automated Porosity Estimation for Sandstone-reservoirs
